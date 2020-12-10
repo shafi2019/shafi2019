@@ -16,8 +16,8 @@ I'm a software engineer based out of Sacramento. I enjoy working with JavaScript
 
 <p align="left">
   
-  <img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="javascript" width="50" height="50"/>
-  <img src="https://img.icons8.com/dotty/80/000000/react.png" alt="react" width="50" height="50"/>
+  <img src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" alt="javascript" width="50" height="50"/>
+  <img src="https://techythought.com/wp-content/uploads/2020/09/ReactNative.png" alt="react" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="node" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html" width="50" height="50"/>
