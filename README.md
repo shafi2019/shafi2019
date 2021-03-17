@@ -2,7 +2,7 @@
 
 I'm a software engineer based out of Sacramento. I enjoy working with JavaScript, ReactJS, NodeJS, HTML and CSS while also learning more about Python.
 
-<a href="https://www.shafimasoumi">
+<a href="https://www.shafimasoumi.com">
   <img align="left" alt="Shafi's Portfolio | Website" width="21px" src="https://www.pinclipart.com/picdir/middle/257-2576819_website-icons-download-for-free-in-png-and.png" />
 </a>
 <a href="https://www.linkedin.com/in/shafi-masoumi-ab099733/">
