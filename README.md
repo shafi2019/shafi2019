@@ -6,7 +6,7 @@ I'm a software engineer based out of Sacramento. I enjoy working with JavaScript
   <img align="left" alt="Shafi's Portfolio | Website" width="21px" src="https://www.pinclipart.com/picdir/middle/257-2576819_website-icons-download-for-free-in-png-and.png" />
 </a>
 <a href="https://www.linkedin.com/in/shafi-masoumi-ab099733/">
-  <img align="left" alt="Shafi's LinkedIn" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+  <img align="left" alt="Shafi's LinkedIn" width="21px" src="https://github.com/shafi2019/shafi2019/assets/52729708/d5b8a6f1-686e-4adc-a1b8-c74cc85d5b75" />
 </a>
 
 <br/>
